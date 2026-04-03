@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+building_twin.db
+*.pkl
+.DS_Store
